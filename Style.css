@@ -12,6 +12,7 @@ body {
 }
  
 p{
+    text-align: center;
     font-size: 9.5px;
     line-height: 9.5px;
     background: url(Violet.jpg);
